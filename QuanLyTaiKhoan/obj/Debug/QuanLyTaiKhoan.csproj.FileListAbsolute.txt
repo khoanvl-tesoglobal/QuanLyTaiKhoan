@@ -1,0 +1,11 @@
+C:\Users\aaa\source\repos\QuanLyTaiKhoan\QuanLyTaiKhoan\bin\Debug\QuanLyTaiKhoan.exe.config
+C:\Users\aaa\source\repos\QuanLyTaiKhoan\QuanLyTaiKhoan\bin\Debug\QuanLyTaiKhoan.exe
+C:\Users\aaa\source\repos\QuanLyTaiKhoan\QuanLyTaiKhoan\bin\Debug\QuanLyTaiKhoan.pdb
+C:\Users\aaa\source\repos\QuanLyTaiKhoan\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.csproj.AssemblyReference.cache
+C:\Users\aaa\source\repos\QuanLyTaiKhoan\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.Form1.resources
+C:\Users\aaa\source\repos\QuanLyTaiKhoan\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.Properties.Resources.resources
+C:\Users\aaa\source\repos\QuanLyTaiKhoan\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.csproj.GenerateResource.cache
+C:\Users\aaa\source\repos\QuanLyTaiKhoan\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.csproj.CoreCompileInputs.cache
+C:\Users\aaa\source\repos\QuanLyTaiKhoan\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.exe
+C:\Users\aaa\source\repos\QuanLyTaiKhoan\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.pdb
+C:\Users\aaa\source\repos\QuanLyTaiKhoan\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.exe.config
